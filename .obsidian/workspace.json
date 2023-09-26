@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Natural Language Processing.md",
+                "file": "Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Natural Language Processing.md",
+                "file": "Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Natural Language Processing.md",
+                "file": "Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Natural Language Processing.md"
+                "file": "Modules.md"
               }
             }
           }
@@ -161,14 +161,18 @@
   },
   "active": "d52a4deb9bb572be",
   "lastOpenFiles": [
+    "1 - Natural Language Processing.md",
+    "Modules.md",
+    "chatbot.py",
+    "chatbot.py U",
+    "Notes/Markdown (Re)Introduction.md",
+    "Notes/Design.md",
     "Notes/warmup_1.py",
     "Notes/warump",
     "Notes/chatbot.py U",
     "Strings.md",
-    "1 - Natural Language Processing.md",
     "Headers.md",
     "README.md",
-    "Notes/Markdown (Re)Introduction.md",
     "Notes/quotegenerator.py",
     "Notes/Untitled.md"
   ]
