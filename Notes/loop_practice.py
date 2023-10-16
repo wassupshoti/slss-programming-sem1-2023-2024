@@ -61,8 +61,38 @@ else:
     print("we didn't find them sowy")
 
 
-for _ in range(1):
-    print("Mr. Ubial is cool.")
+# for _ in range(1):
+  #   print("Mr. Ubial is cool.")
 
-for i in range(9):
+#f or i in range(9):
+ #   print(i)
+
+# Can we start at anohter number?
+
+for i in range(3,100):
+    print(i)
+
+# Can we count by any other number?
+for i in range(0,101,3):
+    print(i)
+
+
+# 1. Print all even numbers betwen
+# 1200 and 1500 inclusive
+# Use a for loop
+
+
+# 2. Print all odd numbers between
+# -150 and 0 inclusive
+
+
+# Once you have your solution
+# Copy and paste your answer in #i-made-this
+
+for i in range(1200, 1500, 2):
+    print(i)
+
+
+#all num btwn -150 and 0
+for i in range(-149, 0, 2):
     print(i)
