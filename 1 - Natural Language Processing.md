@@ -13,9 +13,6 @@ print()
 ```
 
 
-
-
-
 # Comments
 Comments are pieces of text that are *NOT* interpreted by Python
 This means that the text is **ignored
@@ -77,4 +74,8 @@ some_list[-2]             # "Sara"
 Inside the brackets, we give the *index* of the item we want
 Python uses **0-index** counting, which means we start counting at 0
 # [[Modules]]
+
+# [[Conditionals]]
+
+# [[Boolean]]
 

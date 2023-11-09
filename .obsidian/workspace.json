@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14f84e557987d458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/Markdown (Re)Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b85f3fc2657a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Recommendation Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules.md",
+                "file": "Notes/Conditionals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56fc573db542dac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Boolean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81169d9f657630b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Iteration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules.md",
+                "file": "2 - Recommendation Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules.md",
+                "file": "2 - Recommendation Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules.md"
+                "file": "2 - Recommendation Systems.md"
               }
             }
           }
@@ -159,21 +207,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d52a4deb9bb572be",
+  "active": "19b85f3fc2657a41",
   "lastOpenFiles": [
-    "1 - Natural Language Processing.md",
-    "Modules.md",
-    "chatbot.py",
-    "chatbot.py U",
     "Notes/Markdown (Re)Introduction.md",
-    "Notes/Design.md",
-    "Notes/warmup_1.py",
-    "Notes/warump",
-    "Notes/chatbot.py U",
-    "Strings.md",
+    "2 - Recommendation Systems.md",
+    "Modules.md",
+    "Notes/Iteration.md",
+    "Notes/Numbers.md",
+    "1 - Natural Language Processing.md",
     "Headers.md",
+    "quiz1_practice.md",
     "README.md",
-    "Notes/quotegenerator.py",
+    "Strings.md",
+    "Type.md",
+    "Notes/Boolean.md",
+    "Notes/Conditionals.md",
+    "Notes/Design.md",
+    "Notes/Errors.md",
+    "mcdolands.py",
+    "olympic_judging.py",
+    "age_in_2049.py",
+    "chip_rater.py",
+    "pumpkin_drawing.py",
+    "bubble_tea_likes.py",
+    "numbers_practice.py",
+    "quiz1_practice.md U",
+    "Notes/star_wars_bot.py",
+    "Notes/Star Wars bot.py",
     "Notes/Untitled.md"
   ]
 }
