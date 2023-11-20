@@ -209,6 +209,9 @@
   },
   "active": "19b85f3fc2657a41",
   "lastOpenFiles": [
+    "world_traveller.py",
+    "data.csv",
+    "sim_score_sfu_best.py",
     "Notes/Markdown (Re)Introduction.md",
     "2 - Recommendation Systems.md",
     "Modules.md",
@@ -232,8 +235,6 @@
     "bubble_tea_likes.py",
     "numbers_practice.py",
     "quiz1_practice.md U",
-    "Notes/star_wars_bot.py",
-    "Notes/Star Wars bot.py",
     "Notes/Untitled.md"
   ]
 }

@@ -83,7 +83,7 @@ if africa in ["yes", "sure", "shore","yuppers", "yea", "yeah", "uh huh", "duh", 
 if antartctica in ["yes", "sure", "shore","yuppers", "yea", "yeah", "uh huh", "duh", "yes please"]:
     continents_visted += 1
 
-print(f"I see, you have been to {continents_visted}/7, very cool!")
+print(f"I see {user_name}, you have been to {continents_visted}/7, very cool!")
 
 
 
