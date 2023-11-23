@@ -37,3 +37,5 @@ for movie in ubials_fave_moives:
 # Display the results
 print(f"The similarity score between the users is:")
 print(similarity_score)
+
+

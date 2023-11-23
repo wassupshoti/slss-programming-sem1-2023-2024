@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Recommendation Systems.md",
+                "file": "Notes/Markdown (Re)Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Recommendation Systems.md",
+                "file": "Notes/Markdown (Re)Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Recommendation Systems.md",
+                "file": "Notes/Markdown (Re)Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Recommendation Systems.md"
+                "file": "Notes/Markdown (Re)Introduction.md"
               }
             }
           }
@@ -209,32 +209,32 @@
   },
   "active": "19b85f3fc2657a41",
   "lastOpenFiles": [
+    "cookies.py",
+    "turtle_example.py",
+    "Notes/Design.md",
+    "2 - Recommendation Systems.md",
+    "Strings.md",
+    "Type.md",
+    "README.md",
+    "Headers.md",
+    "Modules.md",
+    "1 - Natural Language Processing.md",
+    "Notes/Conditionals.md",
+    "Notes/Errors.md",
+    "Notes/Iteration.md",
+    "Notes/Markdown (Re)Introduction.md",
     "world_traveller.py",
     "data.csv",
     "sim_score_sfu_best.py",
-    "Notes/Markdown (Re)Introduction.md",
-    "2 - Recommendation Systems.md",
-    "Modules.md",
-    "Notes/Iteration.md",
     "Notes/Numbers.md",
-    "1 - Natural Language Processing.md",
-    "Headers.md",
     "quiz1_practice.md",
-    "README.md",
-    "Strings.md",
-    "Type.md",
     "Notes/Boolean.md",
-    "Notes/Conditionals.md",
-    "Notes/Design.md",
-    "Notes/Errors.md",
     "mcdolands.py",
     "olympic_judging.py",
     "age_in_2049.py",
     "chip_rater.py",
     "pumpkin_drawing.py",
     "bubble_tea_likes.py",
-    "numbers_practice.py",
-    "quiz1_practice.md U",
     "Notes/Untitled.md"
   ]
 }
